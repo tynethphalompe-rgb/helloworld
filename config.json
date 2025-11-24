@@ -1,4 +1,4 @@
 {
-    "mode": "local", 
+    "mode": "remote", 
     "remote_message_file": "mess.txt"
 }
